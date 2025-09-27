@@ -15,6 +15,4 @@ I focus on shipping projects that are simple, useful, and fun.
 - **Desktop Apps**: C#, .NET  
 - **Mobile Apps**: Expo / React Native  
 - **Web Dev**: JavaScript, Node.js, Sequelize, PHP (WordPress)  
-- **SEO & Web**: optimization, traffic growth, multi-site management  
-
-📫 Reach me: [alexiusdevinco@gmail.com](mailto:alexiusdevinco@gmail.com)  
+- **SEO & Web**: optimization, traffic growth, multi-site management
