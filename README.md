@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @LexusDaVinco  
 
-💻 Developer & SEO expert building **mobile games**, **desktop apps**, and **websites**.  
+💻 Developer building **mobile games**, **desktop apps**, and **websites**.  
 I focus on shipping projects that are simple, useful, and fun.  
 
 ## 🚀 Recent Projects
