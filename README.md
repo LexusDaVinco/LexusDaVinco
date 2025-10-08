@@ -7,7 +7,8 @@ I focus on shipping projects that are simple, useful, and fun.
 - 🎮 **Real Estate King** – strategy-based mobile game  
 - 🧠 **Memory Coin** – memory challenge puzzle  
 - 🟦 **Block Fill** – casual logic game  
-- 🐍 **Retro Snake** – modern spin on the classic  
+- 🐍 **Retro Snake** – another spin on the classic
+- 📱 **Modern Tetris** - a modern Tetris experience
 - 🖥️ **Godot Desktop Wrapper (C# / .NET)** – in progress  
 
 ## 🛠️ Skills
