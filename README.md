@@ -12,7 +12,7 @@ I focus on shipping projects that are simple, useful, and fun.
 - 📱 **Modern Tetris** - a modern Tetris experience
 - 🖥️ **Godot Desktop Wrapper (C# / .NET)** – in progress
 - 🌐 **Deploying multiple commercial websites**
-- 🥷🏼 **Hacker & Security aware developer**
+- 🥷🏼 **Security aware developer**
 
 ## 🛠️ Skills
 - **Game Dev**: Godot Engine (GDScript), Game Design  
